@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Greenery On Wheels](https://github.com/bharatsinghtanwar/greenery-on-wheels)
   
 
-- 🌱 I’m currently learning Spring Boot and ML  
+- 🌱 I’m currently learning Java Spring Frameworks and AI/ML  
   
 
 - ❓ Ask me about anything related to Java stack and related technologies  
