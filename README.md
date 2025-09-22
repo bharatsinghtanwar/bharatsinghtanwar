@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [ShopSmart](https://github.com/bharatsinghtanwar/shopsmart-ai)
   
 
-- 🌱 I’m currently learning Java Spring Frameworks and AI/ML  
+- 🌱 I’m currently learning Java Spring Frameworks and AI/ML and UI Development
   
 
 - ❓ Ask me about anything related to Java stack and related technologies  
